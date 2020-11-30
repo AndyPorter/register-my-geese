@@ -1,0 +1,40 @@
+lesson plan
+
+now in google doc form
+https://docs.google.com/document/d/1iJyR6da24fLsIvnaIlMUdlqck0cYwEJch5WdWd2gXYY/edit#heading=h.cqyqm5449go5
+
+
+
+part 1
+start form empty kit to make a page, and determing a service we could make, and how to scope it (for our own benefit)
+make 2 pages
+
+homework - go away adn invent your servie and scope - start making things - do what ever you like
+
+
+part 2
+fix any code problmes / things they want to learn/do
+play back, review, discuss what we see - dorections taken, what can be done
+form plan for part 3
+
+part 3
+
+- routing
+-  makes files ready to demonstrate - also find the example in the gov kit help
+- radio id, names, etc, how a group works
+- routes.js file
+- switch statements
+
+- prep code to copy and paste/send to them in advance (store stuff on github, and sen them a link during th emeeting?  a github gist?)
+
+- part4 - git hub, branch, ready for versioning
+- start version 2- dunno what we might start in v2 - 
+
+
+things they want to do
+error messages / validating
+account creation - save and contnu XXXX this is a good one
+spacing between fields
+
+in teahcing them about
+- dont have to build 'the thing' building protoypes of varying degrees of realness to use in research
